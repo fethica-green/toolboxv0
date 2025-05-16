@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+fpdf
+PyPDF2
+st-aggrid
+xlrd
+xlsxwriter
